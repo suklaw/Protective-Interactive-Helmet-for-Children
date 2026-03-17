@@ -1,11 +1,11 @@
-# 🪖 Protective & Interactive Helmet for Children
+# Protective & Interactive Helmet for Children
 
 
 A 3D-printed helmet designed to **protect children from fall-related head injuries**, featuring real-time LED fall-detection alerts and a therapeutic design to support proper cranial development.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Children are highly vulnerable to head injuries from falls. This project addresses that risk by designing and manufacturing a helmet that is:
 
@@ -14,16 +14,16 @@ Children are highly vulnerable to head injuries from falls. This project address
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔴 **4-directional fall detection** via push buttons (Front, Back, Left, Right)
-- 💡 **LED indicator** activates for 10 minutes upon detecting an impact
-- ♻️ **Recyclable PLA material** — eco-friendly and lightweight
-- 🔋 **Battery-powered** for portability
+-  **4-directional fall detection** via push buttons (Front, Back, Left, Right)
+-  **LED indicator** activates for 10 minutes upon detecting an impact
+-  **Recyclable PLA material** — eco-friendly and lightweight
+-  **Battery-powered** for portability
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tool / Material |
 |---|---|
@@ -35,30 +35,13 @@ Children are highly vulnerable to head injuries from falls. This project address
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-3D-Helmet-Project/
-│
-├── README.md
-├── LICENSE
-│
-├── poster/
-│   └── IE199_F04_Poster.pdf
-│
-└── images/
-    ├── final_helmet.jpg        ← Physical prototype
-    ├── cad_design.png          ← SolidWorks CAD model
-    ├── exploded_view.png       ← Component breakdown
-    └── parts_diagram.png       ← Labeled parts diagram
-```
 
 
 ---
 
-## 🖼️ Gallery
+##  Gallery
 
-### 🥇 First Edition
+###  First Edition
  
 <p align="center">
   <img src="images/First_edition.png" width="60%"/>
@@ -66,7 +49,7 @@ Children are highly vulnerable to head injuries from falls. This project address
  
 ---
  
-### 🥈 Second Edition
+###  Second Edition
  
 <p align="center">
   <table>
@@ -83,7 +66,7 @@ Children are highly vulnerable to head injuries from falls. This project address
  
 ---
  
-### 🏆 Final Edition
+###  Final Edition
  
 <p align="center">
   <table>
@@ -102,7 +85,17 @@ Children are highly vulnerable to head injuries from falls. This project address
  
 ---
 
-## 👩‍🎓 Team
+##  Publications & Posters
+ 
+| Document | Event | Year |
+|---|---|---|
+| [ Conference Poster](ID140_Designing_and_Manufacturing_a_Protective_and_Interactive_Helmet_for_Children.pdf) | 3rd GCC International Conference on Industrial Engineering & Operations Management, Tabuk, Saudi Arabia | 2026 |
+| [ Course Exhibition Poster](IE199_POSTER.pdf) | IE199 Course Project Exhibition — Mustaqbal University | 2024 |
+| [ Statistics Report](Statistics_for_the_severity_of_head_injuries_in_children.pdf) | Community Survey: Severity of Head Injuries in Children (214 participants) | 2024 |
+
+---
+
+##  Team
 
 | Name | Role |
 |---|---|
@@ -114,7 +107,7 @@ Children are highly vulnerable to head injuries from falls. This project address
 
 ---
 
-## 📄 License
+##  License
 
 This work is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
