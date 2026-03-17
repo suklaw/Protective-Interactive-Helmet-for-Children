@@ -94,24 +94,14 @@ Children are highly vulnerable to head injuries from falls. This project address
 | [ Statistics Report](Statistics_for_the_severity_of_head_injuries_in_children.pdf) | Community Survey: Severity of Head Injuries in Children (214 participants) | 2024 |
 
 ---
-
-##  Team
-
-| Name | Role |
-|---|---|
-| Sultanah Almutiri | Designer & Manufacturer |
-| Wajd Almehaileb | Designer & Manufacturer |
-| Eng. Faisal Saud Alharbi | Project Supervisor |
-
 **Course:** Introduction to Engineering and Design — IE-199
-
 ---
 
 ##  License
 
 This work is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
-© 2024 Sultanah Almutiri, Wajd Almehaileb
+© 2024 Sultanah Almutiri
 
 You are free to **view and share** this work with proper attribution.
 You may **not** use it commercially, modify it, or redistribute derivatives.
