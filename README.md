@@ -53,23 +53,29 @@ Children are highly vulnerable to head injuries from falls. This project address
     └── parts_diagram.png       ← Labeled parts diagram
 ```
 
-> ⚠️ **Note:** SolidWorks source files (`.SLDPRT`, `.SLDASM`) are not included in this repository to protect the original design.
 
 ---
 
 ## 🖼️ Gallery
 
 ### Final Prototype
-![Final Helmet](images/final_helmet.jpg)
+![Final Helmet](final_helmet.png)
 
 ### CAD Design
-![CAD Design](images/cad_design.png)
+![CAD Design](Final_edtion_model.png)
 
 ### Exploded View
-![Exploded View](images/exploded_view.png)
+![Exploded View](Final_edtion_exploded_view.png)
 
-### Parts Diagram
-![Parts Diagram](images/parts_diagram.png)
+### Second Edition
+![Final Helmet](Second_edition.png)
+![Exploded View](second_edtion_exploded_view.png)
+
+### Second Edition
+![Final Helmet](First_edition.png)
+
+
+
 
 ---
 
