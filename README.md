@@ -58,25 +58,48 @@ Children are highly vulnerable to head injuries from falls. This project address
 
 ## 🖼️ Gallery
 
-### Final Prototype
-![Final Helmet](images/final_helmet.png)
-
-### CAD Design
-![CAD Design](images/Final_edition_model.png)
-
-### Exploded View
-![Exploded View](images/Final_edition_exploded_view.png)
-
-### Second Edition
-![Final Helmet](images/Second_edition.png)
-![Exploded View](images/second_edition_exploded_view.png)
-
-### Second Edition
-![Final Helmet](images/First_edition.png)
-
-
-
-
+### 🥇 First Edition
+ 
+<p align="center">
+  <img src="images/First_edition.png" width="60%"/>
+</p>
+ 
+---
+ 
+### 🥈 Second Edition
+ 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Model</b></td>
+      <td align="center"><b>Exploded View</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/Second_edition.png" height="250"/></td>
+      <td><img src="images/second_edition_exploded_view.png" height="250"/></td>
+    </tr>
+  </table>
+</p>
+ 
+---
+ 
+### 🏆 Final Edition
+ 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Model</b></td>
+      <td align="center"><b>Exploded View</b></td>
+      <td align="center"><b>Physical Prototype</b></td>
+    </tr>
+    <tr>
+      <td><img src="images/Final_edition_model.png" height="250"/></td>
+      <td><img src="images/Final_edition_exploded_view.png" height="250"/></td>
+      <td><img src="images/final_helmet.png" height="250"/></td>
+    </tr>
+  </table>
+</p>
+ 
 ---
 
 ## 👩‍🎓 Team
