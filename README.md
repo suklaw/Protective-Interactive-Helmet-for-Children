@@ -59,20 +59,20 @@ Children are highly vulnerable to head injuries from falls. This project address
 ## 🖼️ Gallery
 
 ### Final Prototype
-![Final Helmet](final_helmet.png)
+![Final Helmet](images/final_helmet.png)
 
 ### CAD Design
-![CAD Design](Final_edtion_model.png)
+![CAD Design](images/Final_edition_model.png)
 
 ### Exploded View
-![Exploded View](Final_edtion_exploded_view.png)
+![Exploded View](images/Final_edition_exploded_view.png)
 
 ### Second Edition
-![Final Helmet](Second_edition.png)
-![Exploded View](second_edtion_exploded_view.png)
+![Final Helmet](images/Second_edition.png)
+![Exploded View](images/second_edition_exploded_view.png)
 
 ### Second Edition
-![Final Helmet](First_edition.png)
+![Final Helmet](images/First_edition.png)
 
 
 
